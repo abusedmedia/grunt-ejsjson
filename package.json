@@ -1,0 +1,11 @@
+{
+  "name": "grunt-ejsjson",
+  "description": "A grunt task for rendering ejs templates.",
+  "version": "0.0.1",
+  "dependencies": {
+    "ejs": "^2.5.8"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  }
+}
